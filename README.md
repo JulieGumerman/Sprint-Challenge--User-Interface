@@ -34,13 +34,37 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+
+*Semantic HTML refers to the tags you use to show what you are looking at in an HTML document. Is it a header? A footer? An aside? An article? The main portion of the page, or just a section underneath?*
+
+*It serves as an outline, from <h1> to <p> tags. It helps you and your fellow developers find where you are in your HTML, and it helps with SEO as well.*
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+
+* *```display: block``` can be given a width and a height, whereas ```display: inline``` cannot be given either.*
+
+* *```display: inline``` items appear horizontally across the width of the page, whereas ```display: block``` items stack themselves vertically.*
+
 
 3. What are the 4 areas of the box model?
 
+
+*From inside out, you have ```content```, then ```padding```, then ```border```, and around the outside, you have ```margin```.*
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+
+*```align-items: center``` adjusts items on the "cross-axis", or the vertical length of a page.*
+
+
 5. Explain why git is valuable to a team of developers.
+
+*Git is valuable to a team of developers because it allows people to add on to code simultaneously on different branches without messing with the master branch. Bugs can be located and resolved before the new code touches the master branch.*
+
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
